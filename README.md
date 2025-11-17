@@ -1,6 +1,6 @@
 # Time Series Methods
 
-This repo is my personal learning jurney of Time Series Analysis and Forecasting in Python, with an emphasis on application in financial markets. I will log here when I will remember some of my advancements, like a little jurnal.
+This repo is my personal learning jurney of Time Series Analysis, Forecasting, and Simulations in Python, with an emphasis on applications in financial markets. I will log here (when I will remember) some of my advancements, like a little jurnal.
 
 ### Nov 16, 2025
  
